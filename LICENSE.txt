@@ -1,0 +1,58 @@
+תנאי שימוש — מנהל מערכות ימות המשיח
+
+© 2026 יודעי בינה · כל הזכויות שמורות
+
+גרסת תנאים: 1
+
+1. זכויות יוצרים
+   כל הזכויות בתוכנה, בקוד המקור, בעיצוב ובתיעוד שמורות ליודעי בינה. התוכנה מוגנת בזכויות יוצרים ואינה תוכנה חופשית או קוד פתוח.
+
+2. מה מותר
+   מותר להוריד את התוכנה, להתקין אותה ולהשתמש בה לניהול מערכות ימות המשיח שלך, לכל מטרה — כולל מסחרית. השימוש בגרסה זו ללא תשלום.
+
+3. מה אסור
+   אסור להעתיק, לשכפל, להפיץ, למכור, להשכיר או לפרסם את התוכנה או כל חלק ממנה; אסור לבצע הנדסה לאחור, לפרק או לחלץ את הקוד; אסור ליצור עבודה נגזרת או לשלב את הקוד במוצר אחר; ואסור להסיר או לשנות את הצהרות הזכויות. הפצה מותרת רק על ידי הפניה למאגר הרשמי.
+
+4. התוכנה נוצרה באמצעות בינה מלאכותית
+   התוכנה פותחה ברובה בעזרת כלי בינה מלאכותית. משמעות הדבר שייתכנו בה שגיאות, התנהגויות בלתי צפויות או פערים מול התיעוד הרשמי של ימות המשיח — גם במקומות שנראים תקינים. אין להסתמך עליה כמקור יחיד.
+
+5. היעדר אחריות
+   התוכנה ניתנת כמות שהיא (AS IS), ללא כל אחריות מכל סוג, מפורשת או משתמעת. המפתח אינו אחראי לכל נזק — ישיר, עקיף, תוצאתי או אחר — לרבות אובדן נתונים, מחיקת שלוחות או קבצים, שיבוש הגדרות, השבתת קו, חיוב יחידות, חשיפת מידע או כל תקלה אחרת, בין אם נגרמו על ידי התוכנה, על ידי עוזר ה-AI שבה ובין אם על ידי המשתמש.
+
+6. האחריות עליך
+   אתה האחראי הבלעדי לכל פעולה שהתוכנה מבצעת בקו שלך. מומלץ מאוד לנסות תחילה על שלוחה ריקה או על מערכת בדיקות, ולוודא גיבוי לפני שינויים נרחבים. התוכנה שומרת גיבוי מקומי לפעולות ומאפשרת ביטול, אך אין בכך ערובה לשחזור מלא בכל מצב.
+
+7. שירותים חיצוניים
+   התוכנה מתחברת ל-API של ימות המשיח, ולפי בחירתך גם לספקי בינה מלאכותית (Google Gemini, OpenAI, Anthropic, OpenRouter) ול-GitHub. השימוש בהם כפוף לתנאים ולמכסות שלהם, והעלויות — אם יש — עליך. הסיסמאות והמפתחות נשמרים מוצפנים במחשב שלך בלבד ואינם נשלחים לשום מקום מלבד השירות שאליו הם מיועדים.
+
+8. שינויים בתנאים ובזמינות
+   המפתח רשאי לשנות את התנאים, להפסיק את פיתוח התוכנה, או לעבור בעתיד למודל בתשלום עבור גרסאות חדשות. גרסה שכבר הורדת תמשיך לפעול; אין התחייבות לעדכונים, לתמיכה או להמשך זמינות.
+
+9. גרסת בטא
+   זוהי גרסת בטא. ייתכנו באגים, שינויים בממשק ושינויים במבנה הנתונים המקומי בין גרסאות.
+
+אני מאשר/ת שקראתי והבנתי: התוכנה נוצרה בעזרת בינה מלאכותית, היא ניתנת ללא כל אחריות, האחריות לכל פעולה בקו שלי היא שלי בלבד, וכל הזכויות בה שמורות למפתח.
+
+────────────────────────────────────────────────────────────
+LICENSE (English summary)
+
+Copyright (c) 2026 YodeyBina. All rights reserved.
+
+This software is proprietary. It is NOT open source and NOT free software.
+
+You MAY: download, install and use this software to manage your own
+Yemot HaMashiach (call2all) systems, including for commercial purposes.
+
+You MAY NOT: copy, redistribute, sell, rent, sublicense or publish this
+software or any part of it; reverse engineer, decompile or disassemble it;
+create derivative works; or remove or alter any copyright notice.
+Redistribution is permitted only by linking to the official repository.
+
+This software was developed largely with the assistance of artificial
+intelligence. It may contain errors.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, INCLUDING BUT NOT LIMITED TO DATA LOSS, DELETION OF
+EXTENSIONS OR FILES, SERVICE DISRUPTION OR UNIT CHARGES, ARISING FROM THE
+USE OF THIS SOFTWARE.
